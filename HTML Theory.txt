@@ -1,0 +1,4 @@
+HTML Theory 
+
+block level elemnts (have both opening and closing tags)
+inline level elemnts (have only opening tag) 
